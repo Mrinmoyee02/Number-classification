@@ -1,1 +1,1 @@
-# Number-classification using Keras layers 
+# Number-classification using Keras Sequential layers 
